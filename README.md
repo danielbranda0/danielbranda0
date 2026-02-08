@@ -1,11 +1,26 @@
-# 👋 Olá, eu sou o Daniel Brandão
+# 👋 Olá, eu sou Daniel Brandão
+
+<a href="https://www.linkedin.com/in/daniel-brand%C3%A3o-b42510122/">
+  <img align="left"
+       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+       alt="Daniel Brandão | LinkedIn"/>
+</a>
+
+<a href="https://wa.me/5571991336685">
+  <img align="left"
+       src="https://img.shields.io/badge/WhatsApp-(71)%209%209133--6685-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+       alt="WhatsApp | Daniel Brandão"/>
+</a>
+
+<br clear="left"/>
+
+<br>
 
 🎯 **Analista de Dados | BI | Growth | Engenharia aplicada a dados**
 
-Sou engenheiro civil formado pela **UFBA**, com atuação focada em **dados, automação e Business Intelligence** aplicados à gestão empresarial.  
-Atualmente trabalho como **Head de Growth e Dados** na **Construtora Mega Realty**, onde lidero toda a estrutura de dados, sistemas e análises estratégicas da empresa.
+Sou engenheiro civil formado pela **Universidade Federal da Bahia (UFBA)**, com atuação focada em **dados, automação e Business Intelligence** aplicados à gestão empresarial. Atualmente trabalho como **Head de Growth e Dados** na **Construtora Mega Realty**, onde lidero toda a estrutura de dados, sistemas e análises estratégicas da empresa.
 
-Meu foco é **transformar dados complexos em decisões claras**, acessíveis e acionáveis para gestores, diretores e equipes operacionais — mesmo sem background técnico.
+Meu foco é **transformar dados complexos em decisões claras**, acessíveis e acionáveis para gestores, diretores e equipes operacionais.
 
 ---
 
@@ -17,9 +32,9 @@ Este GitHub funciona como **portfólio profissional**, com projetos voltados par
 - 📈 **Planilhas avançadas em Excel** (automação, controle financeiro, análises gerenciais)
 - 🧩 **Modelagem de dados e DAX**
 - 🔄 **Automação de processos** com Power Query, VBA e integrações com ERP
-- 📑 Projetos pensados para **leigos técnicos** (recrutadores, gestores, líderes)
+- 📑 Projetos pensados para **leigos técnicos** (gestores, líderes, operacional, etc)
 
-👉 **Não é um repositório colaborativo ou técnico-acadêmico**.  
+👉 **Este não é um repositório colaborativo ou técnico-acadêmico**.  
 É um espaço de demonstração prática de como dados geram valor real no negócio.
 
 ---
@@ -59,7 +74,7 @@ Este GitHub funciona como **portfólio profissional**, com projetos voltados par
 - Integração de ERP, bancos de dados e sistemas internos  
 - Suporte direto à tomada de decisão executiva  
 
-**Analista de Growth e Orçamentista — Mega Realty (2018 – 2021)**  
+**Analista de Growth e Dados e Orçamentista — Mega Realty (2018 – 2021)**  
 - BI financeiro e de obras  
 - Implantação de ERPs  
 - Planejamento e controle de obras  
@@ -84,6 +99,21 @@ Este GitHub funciona como **portfólio profissional**, com projetos voltados par
 📍 Lauro de Freitas – BA  
 📧 **Email:** danielbrandao92@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/daniel-brandão-b42510122/
+
+<a href="https://www.linkedin.com/in/daniel-brand%C3%A3o-b42510122/">
+  <img align="left"
+       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+       alt="Daniel Brandão | LinkedIn"/>
+</a>
+
+<a href="https://wa.me/5571991336685">
+  <img align="left"
+       src="https://img.shields.io/badge/WhatsApp-(71)%209%209133--6685-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+       alt="WhatsApp | Daniel Brandão"/>
+</a>
+
+<br clear="left"/>
+
 
 ---
 
