@@ -70,7 +70,7 @@ Este GitHub funciona como **portfólio profissional**, com projetos voltados par
 **Head de Growth e Dados — Construtora Mega Realty (2021 – atual)**  
 - Estruturação completa da área de dados e BI  
 - Criação de dashboards estratégicos para diretoria  
-- Automação de processos financeiros, comerciais e operacionais  
+- Automação de processos financeiros, técnicos, comerciais e operacionais  
 - Integração de ERP, bancos de dados e sistemas internos  
 - Suporte direto à tomada de decisão executiva  
 
